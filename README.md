@@ -22,7 +22,7 @@ Currently, I'm working on kubernetes and autoware projects.
 
 📫 How to reach me
 
-If you want to get in touch, you can reach me on Twitter with @ziri4k. 
+If you want to get in touch, you can reach me via email ziri025@outlook.com 
 
 🚀 Skills
 

@@ -1,13 +1,9 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Chimgozirim+Onyemkpa;Systems+Engineer+%7C+AI+%26+Robotics+Specialist;Building+Intelligent+Systems+for+the+Future;Passionate+about+Embodied+AI+%26+Autonomous+Tech" alt="Typing SVG" />
-</p>
-
-<h2 align="center">🚀 About Me</h2>
+<p <h2 align="center"><b>🛠️ Hello my name is Ziri</b></h2>
 
 <p align="center">
-  I'm a Systems Engineer (BSc AI & Robotics) with an MBA in Artificial Intelligence.<br>
-  Passionate about leveraging AI, robotics, computer vision, and cloud tech to solve real-world problems.<br>
-  Currently exploring open-source autonomous systems and industrial automation.
+I build intelligent systems that move, see, and scale in the real world. My work spans computer vision and machine learning—from jet engine blade stress prediction using TensorFlow regression models to object detection and segmentation demos—through to robotics and industrial automation, integrating ROS2 with ABB and KUKA robotic arms and simulating forward/inverse kinematics.
+
+I also have hands-on experience in embedded systems, programming PTS2 controllers for precision industrial dispenser pumps deployed in production environments. On the software side, I develop full-stack cloud and mobile applications, designing AWS/GCP backends, integrating Stripe payments, and deploying to mobile using Flutter and Xcode
 </p>
 
 <p align="center">
